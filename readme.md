@@ -14,6 +14,16 @@ Acest proiect implementează un joc de moară (Nine Men's Morris) în Java, util
 
 ## Compilare și Rulare
 
+### Clonarea repo-ului
+    1.Clonarea repo-ului
+    ```bash
+    git clone https://github.com/clauf14/Nine-Men-s-Morris-in-Network-TCP.git
+    ```
+    2.Acceseaza folderul prin comanda
+    ```bash
+        cd /path_to_folder
+    ```
+
 ### Compilare
 
 1. Asigură-te că ai instalat JDK.
@@ -24,17 +34,6 @@ Acest proiect implementează un joc de moară (Nine Men's Morris) în Java, util
     ```
 
 ### Rulare
-
-#### Clonarea repo-ului
-    1.Clonarea repo-ului
-    ```bash
-    git clone https://github.com/clauf14/Nine-Men-s-Morris-in-Network-TCP.git
-    ```
-    2.Acceseaza folderul prin comanda
-    ```bash
-        cd /path_to_folder
-    ```
-
 
 #### Pornirea Serverului
 
