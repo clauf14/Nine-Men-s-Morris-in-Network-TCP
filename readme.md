@@ -87,12 +87,3 @@ Acest proiect implementează un joc de moară (Nine Men's Morris) în Java, util
 ## Concluzie
 
 Acest proiect demonstrează cum poate fi implementat un joc de moară folosind Java și TCP pentru a gestiona comunicarea între mai mulți clienți conectați la un server central. Structurile de date precum array-urile bidimensionale și listele dinamice, împreună cu conceptele de programare concurentă și comunicare în rețea, sunt utilizate pentru a realiza o experiență de joc interactivă și robustă.
-
-## Autori
-
-- Numele tău
-- Colaboratori (dacă este cazul)
-
-## Licență
-
-Acest proiect este licențiat sub licența MIT - vezi fișierul [LICENSE](LICENSE) pentru detalii.
